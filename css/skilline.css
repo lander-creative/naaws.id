@@ -1,4 +1,8 @@
 /*primary color*/
+html {
+    scroll-behavior: smooth;
+}
+
 .bg-cream {
     background-color: #FFF5D7;
 }
