@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lander-creative.github.io/naaws.id/sitemap.xml
